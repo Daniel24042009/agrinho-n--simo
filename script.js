@@ -139,37 +139,37 @@ function executingDiagnostico() {
 
 const dadosEmbrapaPopups = {
     rotacao: { 
-        titulo: "🔄 Rotação e Diversificação Complexa de Culturas", 
+        titulo: "Rotação e Diversificação Complexa de Culturas", 
         intro: "A rotação de culturas consiste em alternar de forma planejada, sistemática e ordenada diferentes espécies vegetais em uma mesma área agrícola ao longo do tempo. Esta técnica rompe radicalmente a continuidade de hospedeiros, agindo como um controle preventivo essencial contra a proliferação de pragas, fungos fitopatogênicos e nematoides específicos do solo. Além disso, o consórcio de plantas com arquiteturas de raízes variadas (superficiais combinadas com pivotantes profundas) promove a descompactação mecânica natural do solo, melhora a porosidade e potencializa a infiltração de água e a ciclagem profunda de nutrientes preciosos.", 
         beneficios: ["Interrompe eficientemente o ciclo biológico de pragas rurais e patógenos.", "Promove a descompactação biológica natural através de múltiplos sistemas radiculares.", "Maximiza a atividade biológica e a diversidade da microbiota benéfica do solo."], 
         exemplo: "Planejamento estruturado: 1º Ano: Milho (Gramínea) → 2º Ano: Soja (Leguminosa) → 3º Ano: Nabo Forrageiro / Aveia Preta (Cobertura profunda)." 
     },
     adubacao: { 
-        titulo: "🌱 Adubação Verde e Cobertura Viva de Solo", 
+        titulo: "Adubação Verde e Cobertura Viva de Solo", 
         intro: "Esta prática milenar baseia-se no cultivo planejado de plantas de rápido crescimento (principalmente leguminosas, crucíferas e gramíneas) com o objetivo exclusivo de enriquecer, proteger e reestruturar o solo. As espécies selecionadas possuem uma capacidade simbiótica incrível com bactérias fixadoras, capturando o nitrogênio gasoso livre na atmosfera e injetando-o diretamente na terra. Ao formar uma camada vegetal densa sobre a superfície, a adubação verde blinda a estrutura do solo contra a erosão hídrica severa, amortece oscilações extremas de temperatura e suprime o desenvolvimento de plantas daninhas por competição por luz.", 
         beneficios: ["Fixação biológica de Nitrogênio atmosférico de forma gratuita.", "Aporte maciço de matéria orgânica estável de altíssima qualidade.", "Eliminação do impacto erosivo das chuvas torrenciais na superfície."], 
         exemplo: "Cultivo intercalado ou em safrinha de Crotalária ou Mucuna Preta, seguido de roçagem para a formação de uma camada uniforme de palhada protetora." 
     },
     mip: { 
-        titulo: "🐞 Manejo Integrado de Pragas (MIP-Agroecologia)", 
+        titulo: "Manejo Integrado de Pragas (MIP-Agroecologia)", 
         intro: "O MIP é uma filosofia moderna e ecológica de tomada de decisões que gerencia as populações de pragas de modo a evitar que causem prejuízos econômicos, sem agredir o ecossistema. Em vez de pulverizações calendarizadas de veneno químico, o produtor realiza amostragens de campo semanais. A intervenção só ocorre se a população atingir o rigoroso Nível de Dano Econômico. O sistema prioriza defensivos de matriz biológica (como vírus, bactérias e fungos controladores) e incentiva a manutenção ativa de insetos predadores benéficos, restaurando a autorregulação natural da lavoura.", 
         beneficios: ["Redução drástica no custo de insumos e dependência química industrial.", "Preservação integral de polinizadores e predadores naturais (joaninhas, tesourinhas).", "Mitigação completa de riscos de contaminação e toxicidade alimentar."], 
         exemplo: "Monitoramento ativo da Lagarta-do-cartucho com aplicação direcionada de extrato de Neem ou do bioinseticidas biológicos à base de Bacillus thuringiensis (Bt)." 
     },
     safs: { 
-        titulo: "🌳 Sistemas Agroflorestais Planejados (SAFs)", 
+        titulo: "Sistemas Agroflorestais Planejados (SAFs)", 
         intro: "Os SAFs representam a vanguarda da sustentabilidade ao combinar intencionalmente árvores perenes (madeireiras, frutíferas ou nativas) com cultivos agrícolas anuais e/ou criação de animais em um arranjo espacial e temporal harmônico. Esse design inteligente imita com perfeição a complexidade estrutural, a sucessão biológica e a estabilidade de uma floresta nativa. As raízes profundas das árvores realizam um bombeamento hidráulico e reciclagem de nutrientes de camadas profundas para a superfície. Além do ganho ambiental por sequestro de carbono e abrigo da fauna, garante resiliência econômica ao diversificar a produção anual da propriedade.", 
         beneficios: ["Reciclagem altamente eficiente de nutrientes profundos e proteção hídrica.", "Conforto térmico animal severo e diversificação de fontes de renda na mesma área.", "Sequestro ativo de Carbono atmosférico mitigando gases estufa."], 
         exemplo: "Consorciação agroflorestal: Fileiras de Eucalipto ou Erva-Mate intercaladas com cultivo de Milho, Feijão e pastagens sombreadas para pecuária leiteira." 
     },
     nascentes: { 
-        titulo: "💧 Recuperação, Cercamento e Proteção de Nascentes", 
+        titulo: "Recuperação, Cercamento e Proteção de Nascentes", 
         intro: "A salvaguarda de fontes d'água em Áreas de Preservação Permanente (APP) exige ações coordenadas estruturais e ecológicas. O passo primordial é o isolamento físico absoluto em um raio mínimo de 50 metros ao redor do olho d'água para barrar o pisoteio de bovinos, que causa compactação drástica e destruição marginal. Uma vez isolada a área, procede-se ao reflorestamento denso com mudas nativas da região. As copas reduzem a evaporação direta, enquanto as raízes funcionam como verdadeiras esponjas filtrantes, retendo defensivos agrícolas ou sedimentos das enxurradas e garantindo água limpa e contínua.", 
         beneficios: ["Garantia de segurança hídrica contínua e vazão estável ao longo do ano.", "Filtragem biológica de resíduos e sedimentos suspensos.", "Retorno imediato da fauna endêmica e equilíbrio hidrológico."], 
         exemplo: "Instalação de cercamento com arame liso rígido e plantio de espécies higrófitas nativas (como Ingá, Salgueiro e Taboa) ao redor de fontes degradadas." 
     },
     curvas: { 
-        titulo: "🚜 Engenharia de Curvas de Nível e Terraceamento", 
+        titulo: "Engenharia de Curvas de Nível e Terraceamento", 
         intro: "Técnicas mecânicas fundamentais de conservação de solo recomendadas para relevos ondulados e encostas. O plantio em curvas de nível consiste em realizar todas as operações de preparo e semeadura seguindo linhas imaginárias perpendiculares ao declive (em nível altimétrico constante). O terraceamento adiciona barreiras físicas de terra (terraços) espaçados. Esse sistema cria obstáculos físicos severos que reduzem drasticamente a velocidade de escoamento das águas das enxurradas, transformando energia cinética destruidora em infiltração lenta e controlada, eliminando o surgimento de voçorocas.", 
         beneficios: ["Retenção quase total da camada de solo fértil superficial.", "Favorecimento massivo da recarga do lençol freático local por infiltração.", "Prevenção definitiva do assoreamento e contaminação de rios vizinhos."], 
         exemplo: "Uso do aparelho 'Pé-de-Galinha' ou nível de mangueira para demarcação exata das linhas de nível no terreno antes de abrir sulcos de plantio." 
@@ -270,213 +270,177 @@ function mudarNivelQuiz(novoNivel) {
 }
 
 function renderizarQuestaoQuiz() {
-    const listaQuestoes = databaseQuestoes[nivelQuizAtual];
-    const dadosQuestao = listaQuestoes[indiceQuestaoAtual];
-    const totalQ = listaQuestoes.length;
-    const porcentagem = ((indiceQuestaoAtual + 1) / totalQ) * 100;
+    const listaPerguntas = quizPerguntas[nivelAtual];
+    const pergunta = listaPerguntas[questaoIndex];
 
-    const progressTxt = document.getElementById('quiz-progress-text');
-    if(progressTxt) progressTxt.innerText = `Questão ${indiceQuestaoAtual + 1} de ${totalQ}`;
+    // Atualizar labels de cabeçalho do quiz
+    const nomesNivel = { facil: 'Fácil', medio: 'Médio', dificil: 'Difícil' };
+    labelNivel.textContent = nomesNivel[nivelAtual];
 
-    const barFill = document.getElementById('quiz-bar-fill');
-    if(barFill) barFill.style.width = `${porcentagem}%`;
+    const indicadorGlobal = (nivelAtual === 'facil' ? 0 : nivelAtual === 'medio' ? 10 : 20) + questaoIndex + 1;
+    progressoTexto.textContent = `${indicadorGlobal}/30`;
+    barraQuizFill.style.width = `${(indicadorGlobal / 30) * 100}%`;
 
-    const qTitle = document.getElementById('quiz-question-title');
-    if(qTitle) qTitle.innerText = dadosQuestao.q;
-
-    const caixaOpcoes = document.getElementById('quiz-options-container');
-    if(caixaOpcoes) {
-        caixaOpcoes.innerHTML = "";
-        dadosQuestao.o.forEach((opcao, indice) => {
-            const btn = document.createElement('button');
-            btn.innerText = opcao;
-            btn.className = "quiz-option"; 
-            btn.addEventListener('click', () => checarRespostaQuiz(indice, btn));
-            caixaOpcoes.appendChild(btn);
-        });
-    }
-
-    const btnNext = document.getElementById('btn-next-question');
-    if(btnNext) {
-        btnNext.classList.remove('hidden');
-        btnNext.disabled = true;
-    }
-}
-
-function checarRespostaQuiz(indiceSelecionado, elementoClicado) {
-    const listaQuestoes = databaseQuestoes[nivelQuizAtual];
-    const respostaCorreta = listaQuestoes[indiceQuestaoAtual].a;
-    const caixaOpcoes = document.getElementById('quiz-options-container');
-    if(!caixaOpcoes) return;
-
-    const todosBotoes = caixaOpcoes.querySelectorAll('button');
-    todosBotoes.forEach(b => b.disabled = true);
-
-    if (indiceSelecionado === respostaCorreta) {
-        elementoClicado.classList.add('correct');
-        totalAcertosQuiz++;
-    } else {
-        elementoClicado.classList.add('wrong');
-        todosBotoes[respostaCorreta].classList.add('correct');
-    }
-
-    const metricEl = document.getElementById('metric-quiz');
-    if(metricEl) metricEl.innerText = `${totalAcertosQuiz}/30`;
+    document.getElementById('quiz-question-title').textContent = `${questaoIndex + 1}. ${pergunta.q}`;
+    containerOpcoes.innerHTML = '';
     
-    const btnNext = document.getElementById('btn-next-question');
-    if(btnNext) btnNext.disabled = false;
-}
+    btnProxima.classList.add('hidden');
+    btnProxima.disabled = true;
 
-function proximaQuestao() {
-    const listaQuestoes = databaseQuestoes[nivelQuizAtual];
-    indiceQuestaoAtual++;
+    pergunta.o.forEach((opcao, idx) => {
+        const btnOpcao = document.createElement('button');
+        btnOpcao.className = 'quiz-option';
+        btnOpcao.textContent = opcao;
 
-    if (indiceQuestaoAtual < listaQuestoes.length) {
-        renderizarQuestaoQuiz();
-    } else {
-        finalizarNivelQuiz();
-    }
-}
-
-function finalizarNivelQuiz() {
-    let proxNivel = '';
-    let titulo = '';
-    let msg = '';
-
-    if (nivelQuizAtual === 'facil') {
-        proxNivel = 'medio';
-        titulo = "🌱 Nível Fácil Concluído!";
-        msg = `Avançou com sucesso. Acertos parciais: ${totalAcertosQuiz}/10. Deseja iniciar o nível Médio?`;
-    } else if (nivelQuizAtual === 'medio') {
-        proxNivel = 'dificil';
-        titulo = "🌿 Nível Médio Concluído!";
-        msg = `Excelente ritmo de acertos: ${totalAcertosQuiz}/20. Deseja encarar o nível Avançado (Difícil)?`;
-    } else {
-        const porcentagemAcertos = (totalAcertosQuiz / 30) * 100;
-        if (porcentagemAcertos >= 70) {
-            gerarCertificado();
-            liberarCertificadoNoProgresso();
+        // Caso a questão já tenha sido respondida anteriormente
+        if (respostasUsuario[nivelAtual][questaoIndex] !== undefined) {
+            const respondidoIdx = respostasUsuario[nivelAtual][questaoIndex];
+            if (idx === pergunta.c) btnOpcao.classList.add('correct');
+            else if (idx === respondidoIdx) btnOpcao.classList.add('wrong');
+            btnOpcao.disabled = true;
+            btnProxima.classList.remove('hidden');
+            btnProxima.disabled = false;
         } else {
-            mostrarReprovacao(porcentagemAcertos);
+            // Evento de clique na opção
+            btnOpcao.addEventListener('click', () => {
+                respostasUsuario[nivelAtual][questaoIndex] = idx;
+                
+                document.querySelectorAll('.quiz-option').forEach((b, bIdx) => {
+                    b.disabled = true;
+                    if (bIdx === pergunta.c) b.classList.add('correct');
+                    else if (bIdx === idx) b.classList.add('wrong');
+                });
+
+                if (idx === pergunta.c) acertosGerais++;
+                
+                atualizarPainelProgresso();
+                btnProxima.classList.remove('hidden');
+                btnProxima.disabled = false;
+            });
         }
-        return;
+        containerOpcoes.appendChild(btnOpcao);
+    });
+}
+
+function atualizarPainelProgresso() {
+    document.getElementById('metric-quiz').textContent = `${acertosGerais}/30`;
+    const certBox = document.getElementById('status-certificado-box');
+
+    if (certBox) {
+        if (acertosGerais >= 21) {
+            certBox.className = 'certificado-status-liberado';
+            certBox.innerHTML = `
+                <div class="lock-icon">🎓</div>
+                <h4>Certificado Desbloqueado!</h4>
+                <p>Excelente aproveitamento! Atingiu <strong>${Math.round((acertosGerais/30)*100)}% de acertos</strong> (${acertosGerais} de 30 questões) no Quiz.</p>
+                <div class="btn-gap">
+                    <button class="btn-gerar-cert" id="btn-abrir-doc-certificado">Visualizar Certificado do Agrinho</button>
+                </div>
+            `;
+            document.getElementById('btn-abrir-doc-certificado').addEventListener('click', abrirCertificado);
+        } else {
+            certBox.className = 'certificado-status-bloqueado';
+            certBox.innerHTML = `
+                <div class="lock-icon">🔒</div>
+                <h4>Certificado Indisponível</h4>
+                <p>Atinja no mínimo <strong>70% de acertos</strong> (21 de 30 questões) no Quiz de Fixação para liberar o documento. Progresso Atual: ${acertosGerais} acertos.</p>
+            `;
+        }
     }
-
-    const modalHtml = `
-        <div class="text-center-box" style="padding: 20px;">
-            <h2 class="modal-titulo">${titulo}</h2>
-            <p class="modal-msg-text">${msg}</p>
-            <div class="btn-gap">
-                <button id="btn-avancar-nivel" class="btn-gerar-cert">Avançar Nível ➡️</button>
-                <button id="btn-ficar-nivel" class="nav-btn btn-imprimir" style="background:#ccc; color:#333;">Ficar Aqui</button>
-            </div>
-        </div>
-    `;
-    
-    document.getElementById('modal-content-injector').innerHTML = modalHtml;
-    document.getElementById('global-modal-overlay').classList.remove('hidden');
-
-    document.getElementById('btn-avancar-nivel').addEventListener('click', () => {
-        mudarNivelQuiz(proxNivel);
-        ocultarModal();
-    });
-    document.getElementById('btn-ficar-nivel').addEventListener('click', ocultarModal);
 }
 
-function mostrarReprovacao(porcentagem) {
-    const modalHtml = `
-        <div class="text-center-box" style="padding:20px;">
-            <h2 class="modal-titulo" style="color: #f44336;">⚠️ Quase lá!</h2>
-            <p class="modal-msg-text">Atingiu <strong>${porcentagem.toFixed(1)}%</strong> de acertos (${totalAcertosQuiz}/30).</p>
-            <p style="margin-bottom: 20px; font-size:0.95rem; color:var(--text-light);">É necessário no mínimo <strong>70% de aproveitamento</strong> para emitir a certificação oficial.</p>
-            <div class="btn-gap">
-                <button id="btn-reiniciar-quiz" class="btn-gerar-cert">🔄 Tentar Novamente</button>
-                <button id="btn-fechar-aviso" class="nav-btn btn-imprimir" style="background:#ccc; color:#333;">Fechar</button>
-            </div>
-        </div>
-    `;
-    document.getElementById('modal-content-injector').innerHTML = modalHtml;
-    document.getElementById('global-modal-overlay').classList.remove('hidden');
+btnProxima.addEventListener('click', () => {
+    questaoIndex++;
+    if (questaoIndex >= 10) {
+        if (nivelAtual === 'facil') {
+            nivelAtual = 'medio'; questaoIndex = 0; marcarFocoNivel(btnMedio);
+        } else if (nivelAtual === 'medio') {
+            nivelAtual = 'dificil'; questaoIndex = 0; marcarFocoNivel(btnDificil);
+        } else {
+            questaoIndex = 9;
+            alert('Trilha concluída! Verifique o seu aproveitamento e emita o certificado no painel de desempenho.');
+            return;
+        }
+    }
+    renderizarQuestao();
+});
 
-    document.getElementById('btn-reiniciar-quiz').addEventListener('click', () => {
-        mudarNivelQuiz('facil');
-        ocultarModal();
-    });
-    document.getElementById('btn-fechar-aviso').addEventListener('click', ocultarModal);
+function marcarFocoNivel(btnAtivo) {
+    [btnFacil, btnMedio, btnDificil].forEach(b => b.style.outline = 'none');
+    btnAtivo.style.outline = '3px solid #1d2d24';
 }
 
-function gerarCertificado() {
-    const metricEl = document.getElementById('metric-quiz');
-    if(metricEl) metricEl.innerText = `${totalAcertosQuiz}/30 (Aprovado)`;
-    
-    const modalHtml = `
-        <div class="referencias-box" style="text-align:center;">
-            <div class="cert-icone-topo">🏆</div>
-            <h1 class="modal-titulo" style="font-size:1.8rem;">Certificado de Excelência</h1>
-            <h3 class="certificado-subtitulo">Raízes do Amanhã | Tecnologia Rural</h3>
-            <p class="certificado-texto" style="text-align:justify;">
-                Certificamos para os devidos fins que o <strong>Aluno Online</strong> demonstrou excelente domínio 
-                cognitivo nos módulos de monitoramento sustentável, cumprindo com distinção as etapas avaliativas 
-                da plataforma digital com a marca de ${((totalAcertosQuiz/30)*100).toFixed(0)}% de aproveitamento técnico.
-            </p>
-            <div class="btn-gap">
-                <button id="btn-fechar-certificado" class="nav-btn btn-imprimir" style="background:#ccc; color:#333;">Fechar</button>
-                <button id="btn-download-certificado" class="btn-gerar-cert">📥 Baixar Documento</button>
+btnFacil.addEventListener('click', () => { nivelAtual = 'facil'; questaoIndex = 0; marcarFocoNivel(btnFacil); renderizarQuestao(); });
+btnMedio.addEventListener('click', () => { nivelAtual = 'medio'; questaoIndex = 0; marcarFocoNivel(btnMedio); renderizarQuestao(); });
+btnDificil.addEventListener('click', () => { nivelAtual = 'dificil'; questaoIndex = 0; marcarFocoNivel(btnDificil); renderizarQuestao(); });
+
+// Inicialização das variáveis do Quiz
+marcarFocoNivel(btnFacil);
+renderizarQuestao();
+
+// ==========================================
+// 5. EMISSÃO DO CERTIFICADO AGRINHO ORIGINAL (ATUALIZADO)
+// ==========================================
+function abrirCertificado() {
+    modalInjector.innerHTML = `
+        <div class="text-center-box">
+            <h2 class="modal-titulo">🎉 Parabéns! Certificado Conquistado!</h2>
+            <p>Você atingiu mais de 70% de acertos no Quiz e comprovou seus conhecimentos de alto nível técnico em Agroecologia.</p>
+            <p style="margin-top:10px; font-weight:700;">Pontuação Final: ${acertosGerais}/30 (${Math.round((acertosGerais/30)*100)}%)</p>
+            <div class="btn-gap" style="margin-top:20px;">
+                <button id="btn-download-certificado" class="btn-gerar-cert">📥 Baixar Documento Oficial</button>
+                <button class="nav-btn btn-imprimir" style="background:#ccc; color:#000;" id="btn-fechar-modal-cert">Fechar</button>
             </div>
         </div>
     `;
-    
-    document.getElementById('modal-content-injector').innerHTML = modalHtml;
-    document.getElementById('global-modal-overlay').classList.remove('hidden');
-    
-    document.getElementById('btn-fechar-certificado').addEventListener('click', ocultarModal);
+    modalOverlay.classList.remove('hidden');
+    document.getElementById('btn-fechar-modal-cert').addEventListener('click', () => modalOverlay.classList.add('hidden'));
     document.getElementById('btn-download-certificado').addEventListener('click', executarDownloadRealCertificado);
 }
 
 function executarDownloadRealCertificado() {
-    const porcentagem = ((totalAcertosQuiz / 30) * 100).toFixed(0);
+    const porcentagem = Math.round((acertosGerais / 30) * 100);
     const htmlConteudo = `
     <!DOCTYPE html>
     <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
+        <title>Certificado do Agrinho - Daniel Ribeiro</title>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Plus+Jakarta+Sans:wght@400;700&display=swap');
-            body { margin: 0; padding: 20px; background: #f0f0f0; display: flex; justify-content: center; }
+            body { margin: 0; padding: 20px; background-color: #f5f5f5; display: flex; justify-content: center; align-items: center; min-height: 90vh; }
             .cert-container { 
-                width: 900px; height: 630px; background: #f9f7f2; 
-                border: 20px solid #0f271c; border-image: linear-gradient(135deg, #0f271c, #97cc52) 30;
-                position: relative; padding: 40px; box-sizing: border-box; text-align: center;
-                box-shadow: 0 0 20px rgba(0,0,0,0.2);
+                background: white; border: 15px double #1a3c17; width: 900px; padding: 40px; 
+                text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); position: relative;
+                box-sizing: border-box;
             }
             .faixa-ouro { 
-                background: linear-gradient(to bottom, #97cc52, #0f271c);
-                color: white; padding: 15px 40px; margin: 0 auto 30px;
-                display: inline-block; font-family: 'Cinzel', serif; font-size: 24px; text-transform: uppercase;
+                font-family: 'Cinzel', serif; color: #b8860b; font-size: 20px; font-weight: bold; 
+                margin-bottom: 10px; letter-spacing: 2px; text-transform: uppercase;
             }
-            h1 { font-family: 'Cinzel', serif; color: #0f271c; font-size: 32px; margin-bottom: 20px; }
-            p { font-family: 'Plus Jakarta Sans', sans-serif; color: #333; line-height: 1.6; font-size: 16px; margin: 15px 0; }
-            .assinaturas { display: flex; justify-content: space-between; margin-top: 80px; }
-            .assinatura-box { border-top: 1px solid #333; width: 250px; padding-top: 10px; font-family: 'Cinzel', serif; font-size:13px; }
+            .sub-faixa { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 14px; margin-bottom: 30px; color: #555; }
+            h1 { font-family: 'Cinzel', serif; color: #1a3c17; font-size: 36px; margin-bottom: 25px; font-weight: 700; }
+            p { font-family: 'Plus Jakarta Sans', sans-serif; color: #333; line-height: 1.7; font-size: 17px; margin: 20px 0; }
+            .assinaturas { display: flex; justify-content: space-between; margin-top: 90px; }
+            .assinatura-box { border-top: 1px solid #333; width: 260px; padding-top: 10px; font-family: 'Cinzel', serif; font-size: 14px; color: #1a3c17; }
+        }
         </style>
     </head>
     <body>
         <div class="cert-container">
-            <div class="faixa-ouro">PROJETO RAÍZES DO AMANHÃ</div>
-            <div style="font-size: 14px; margin-bottom: 20px; font-family:sans-serif;">Conceito de Monitoramento de Impacto Agroecológico</div>
+            <div class="faixa-ouro">PLATAFORMA RAÍZES DO AMANHÃ</div>
+            <div class="sub-faixa">CONCEITO DE MONITORAMENTO DE IMPACTO AGROECOLÓGICO</div>
             
             <h1>CERTIFICADO DE EXCELÊNCIA AGROECOLÓGICA</h1>
             
-            <p>Pelo presente certificado, declaramos que o <strong>ALUNO(A) ONLINE</strong> concluiu com aproveitamento exemplar o ecossistema pedagógico digital de sustentabilidade, atingindo a marca avaliativa de <strong>${totalAcertosQuiz} acertos de 30 possíveis (${porcentagem}% de rendimento)</strong> nas lições teóricas e computacionais.</p>
-            
-            <p style="font-weight: bold; margin-top: 20px; font-family:sans-serif;">PLATAFORMA DE MONITORAMENTO DE IMPACTO AGROECOLÓGICA & INTELIGÊNCIA TECNOLÓGICA COMPUTACIONAL</p>
+            <p>Pelo presente certificado, declaramos que o aluno demonstrou notável domínio cognitivo e proficiência técnica nos módulos de monitoramento sustentável, cumprindo com distinção a jornada pedagógica digital da plataforma, atingindo a marca avaliativa de <strong>${acertosGerais} acertos de 30 possíveis (${porcentagem}% de rendimento)</strong> nas lições teóricas e computacionais.</p>
             
             <div class="assinaturas">
                 <div class="assinatura-box">
-                    Antônio Olinto<br><span style="font-size:11px; color:#555;">Antônio Olinto, 14 de Junho de 2026</span>
+                    Antônio Olinto<br><span style="font-size:12px; font-family: 'Plus Jakarta Sans', sans-serif;">Antônio Olinto, 14 de Junho de 2026</span>
                 </div>
                 <div class="assinatura-box">
-                    Daniel Muniz Nizer<br><span style="font-size:11px; color:#555;">Daniel Muniz Nizer, 14 de Junho de 2026</span>
+                    Daniel Ribeiro<br><span style="font-size:12px; font-family: 'Plus Jakarta Sans', sans-serif;">Daniel Ribeiro, 14 de Junho de 2026</span>
                 </div>
             </div>
         </div>
@@ -486,167 +450,166 @@ function executarDownloadRealCertificado() {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = 'Certificado_Raizes_do_Amanha.html';
+    link.download = 'Certificado_Oficial_Agrinho_Raizes_do_Amanhã.html';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
     URL.revokeObjectURL(url);
 }
 
-function liberarCertificadoNoProgresso() {
-    const caixaCertificado = document.getElementById('status-certificado-box');
-    if(caixaCertificado) {
-        caixaCertificado.className = "certificado-status-liberado";
-        caixaCertificado.innerHTML = `
-            <div class="lock-icon">🏆</div>
-            <h4>Parabéns! Certificado Liberado</h4>
-            <p style="margin-bottom:15px; font-size:0.9rem;">O seu aproveitamento foi superior a 70% no Quiz. Faça o download abaixo:</p>
-            <button id="btn-download-progresso" class="btn-gerar-cert">📥 Baixar Certificado</button>
+// ==========================================
+// 6. RECURSOS DIDÁTICOS (REPRODUTOR DE MÍDIA)
+// ==========================================
+const btnPdf = document.getElementById('btn-midia-pdf');
+const btnVideo = document.getElementById('btn-midia-video');
+const mediaViewport = document.getElementById('media-viewport-container');
+const mediaTitle = document.getElementById('media-viewport-title');
+const mediaFrameBox = document.getElementById('media-frame-box');
+const btnFecharMidia = document.getElementById('btn-fechar-midia');
+
+if (btnPdf && btnVideo && mediaViewport) {
+    btnPdf.addEventListener('click', () => {
+        mediaViewport.classList.remove('hidden');
+        mediaTitle.textContent = "📄 Manual de Solos (UFPR) — Repositório Académico";
+        mediaFrameBox.innerHTML = `
+            <div style="background:#edf2ef; padding:30px; border-radius:8px; text-align:center; border:1px dashed var(--primary-green);">
+                <h4>[Simulador de Visualização de Documento PDF]</h4>
+                <p style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Leitor integrado: Amostragem Química, Perfis de Solo e Fertilidade Orgânica no Campo.</p>
+                <button class="nav-btn btn-imprimir mt-15" style="display:inline-block; font-size:0.85rem;" onclick="window.open('https://www.ufpr.br', '_blank')">Abrir Link Externo Institucional</button>
+            </div>
         `;
-        document.getElementById('btn-download-progresso').addEventListener('click', executarDownloadRealCertificado);
-    }
+        mediaViewport.scrollIntoView({ behavior: 'smooth' });
+    });
+
+    btnVideo.addEventListener('click', () => {
+        mediaViewport.classList.remove('hidden');
+        mediaTitle.textContent = "🎥 Práticas de Conservação Direta no Campo";
+        mediaFrameBox.innerHTML = `
+            <div style="background:#edf2ef; padding:40px; border-radius:8px; text-align:center; border:1px dashed var(--primary-green);">
+                <div style="font-size:3rem; margin-bottom:10px;">🎥</div>
+                <h4>Vídeo Didático: Construção Prática de Curvas de Nível e Proteção de Olhos d'Água</h4>
+                <p style="font-size:0.9rem; color:var(--text-light);">[Reprodutor Multimédia Simulado — Demonstração Rústica para Escolas do Campo no Paraná]</p>
+            </div>
+        `;
+        mediaViewport.scrollIntoView({ behavior: 'smooth' });
+    });
+
+    btnFecharMidia.addEventListener('click', () => {
+        mediaViewport.classList.add('hidden');
+        mediaFrameBox.innerHTML = '';
+    });
 }
 
-function abrirMidia(tipoMidia) {
-    const container = document.getElementById('media-viewport-container');
-    const box = document.getElementById('media-frame-box');
-    const titulo = document.getElementById('media-viewport-title');
+// ==========================================
+// 7. JOGO DA MEMÓRIA COM EFEITO VIRTUAL 3D
+// ==========================================
+const memoryGameBoard = document.getElementById('memory-game-board');
+const btnReiniciarJogo = document.getElementById('btn-reiniciar-jogo');
+const timerVal = document.getElementById('timer-val');
+const movesVal = document.getElementById('moves-val');
 
-    if(!container || !box) return;
-
-    container.classList.remove('hidden');
-    box.innerHTML = "";
-
-    if (tipoMidia === 'pdf') {
-        if(titulo) titulo.innerHTML = "📄 Livro Técnico: Conservando os Solos (Manual do Acervo Digital da UFPR)";
-        const urlPdf = "https://acervodigital.ufpr.br/xmlui/bitstream/handle/1884/85232/Conservando_os_solos.pdf?sequence=1&isAllowed=y";
-        box.innerHTML = `<iframe src="https://docs.google.com/gview?url=${encodeURIComponent(urlPdf)}&embedded=true" class="box-iframe-media"></iframe>`;
-    } else if (tipoMidia === 'video') {
-        if(titulo) titulo.innerHTML = "🎥 Videoaula Prática: Preservação de Nascentes Rurais";
-        box.innerHTML = `<iframe src="https://www.youtube.com/embed/FHraCDyIhrI" class="box-iframe-media" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
-    }
-    container.scrollIntoView({ behavior: 'smooth' });
-}
-
-function fecharMidia() {
-    const container = document.getElementById('media-viewport-container');
-    if(container) container.classList.add('hidden');
-    const box = document.getElementById('media-frame-box');
-    if(box) box.innerHTML = "";
-}
-
-// Lógica Autoral - Jogo da Memória Computacional
-const cartasMemoriaOriginais = [
-    { nome: "Plantio Direto", icone: "🚜" }, { nome: "Plantio Direto", icone: "🚜" },
-    { nome: "Adubação Verde", icone: "🌿" }, { nome: "Adubação Verde", icone: "🌿" },
-    { nome: "Rotação Culturas", icone: "🔄" }, { nome: "Rotação Culturas", icone: "🔄" },
-    { nome: "Controle Biológico", icone: "🐞" }, { nome: "Controle Biológico", icone: "🐞" },
-    { nome: "Mata Ciliar", icone: "🌳" }, { nome: "Mata Ciliar", icone: "🌳" },
-    { nome: "Cerca Proteção", icone: "💧" }, { nome: "Cerca Proteção", icone: "💧" }
-];
-
-let vetorTemporarioCartas = [];
-let jogadasEfetuadas = 0;
-let segundosJogo = 0;
-let timerIdInterv = null;
+let conjuntoCartas = ['🌾', '🌾', '🌱', '🌱', '🌿', '🌿', '🌳', '🌳', '💧', '💧', '🔄', '🔄', '🐞', '🐞', '🚜', '🚜'];
+let cartasViradas = [];
+let contagemPares = 0;
+let totalJogadas = 0;
+let cronometro = null;
+let segundosPassados = 0;
 let jogoIniciado = false;
 
-function embaralharFisherYates(array) {
-    let m = array.length, t, i;
-    while (m) {
-        i = Math.floor(Math.random() * m--);
-        t = array[m];
-        array[m] = array[i];
-        array[i] = t;
+function formatarTempo(s) {
+    const min = Math.floor(s / 60).toString().padStart(2, '0');
+    const seg = (s % 60).toString().padStart(2, '0');
+    return `${min}:${seg}`;
+}
+
+function iniciarCronometro() {
+    if (cronometro) clearInterval(cronometro);
+    segundosPassados = 0;
+    cronometro = setInterval(() => {
+        segundosPassados++;
+        timerVal.textContent = formatarTempo(segundosPassados);
+    }, 1000);
+}
+
+function embaralhar(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
     }
     return array;
 }
 
-function iniciarTimerJogo() {
-    if (jogoIniciado) return;
-    jogoIniciado = true;
-    segundosJogo = 0;
-    clearInterval(timerIdInterv);
-    timerIdInterv = setInterval(() => {
-        segundosJogo++;
-        const mins = String(Math.floor(segundosJogo / 60)).padStart(2, '0');
-        const secs = String(segundosJogo % 60).padStart(2, '0');
-        const tVal = document.getElementById('timer-val');
-        if(tVal) tVal.innerText = `${mins}:${secs}`;
-    }, 1000);
-}
-
-function inicializarJogo() {
-    clearInterval(timerIdInterv);
-    const tVal = document.getElementById('timer-val');
-    if(tVal) tVal.innerText = "00:00";
-    
-    const mVal = document.getElementById('moves-val');
-    if(mVal) mVal.innerText = "0";
-
-    jogadasEfetuadas = 0;
+function inicializarJogoMemoria() {
+    memoryGameBoard.innerHTML = '';
+    cartasViradas = [];
+    contagemPares = 0;
+    totalJogadas = 0;
+    movesVal.textContent = '0';
+    timerVal.textContent = '00:00';
+    clearInterval(cronometro);
     jogoIniciado = false;
-    vetorTemporarioCartas = [];
 
-    const cartasEmbaralhadas = embaralharFisherYates([...cartasMemoriaOriginais]);
-    const canvas = document.getElementById('memory-game-board');
-    if(!canvas) return;
-    canvas.innerHTML = "";
+    const cartasEmbaralhadas = embaralhar([...conjuntoCartas]);
 
-    cartasEmbaralhadas.forEach(item => {
-        const bloco = document.createElement('div');
-        bloco.className = "memory-tile";
+    cartasEmbaralhadas.forEach((emoji, index) => {
+        const tile = document.createElement('div');
+        tile.className = 'memory-tile';
+        tile.setAttribute('data-emoji', emoji);
 
-        bloco.innerHTML = `
-            <div class="tile-back">🌱</div>
-            <div class="tile-front" style="display:none; flex-direction:column; align-items:center; justify-content:center; height:100%; font-weight:700;">
-                <span style="font-size:1.6rem; margin-bottom:4px;">${item.icone}</span>
-                <span style="font-size:0.75rem; color:var(--primary-green); text-align:center;">${item.nome}</span>
-            </div>
+        tile.innerHTML = `
+            <div class="tile-back">❓</div>
+            <div class="tile-front">${emoji}</div>
         `;
 
-        bloco.addEventListener('click', () => virarCartaTabuleiro(bloco, item));
-        canvas.appendChild(bloco);
+        tile.addEventListener('click', () => {
+            if (!jogoIniciado) {
+                iniciarCronometro();
+                jogoIniciado = true;
+            }
+
+            if (tile.classList.contains('flipped') || tile.classList.contains('matched') || cartasViradas.length >= 2) {
+                return;
+            }
+
+            tile.classList.add('flipped');
+            cartasViradas.push(tile);
+
+            if (cartasViradas.length === 2) {
+                totalJogadas++;
+                movesVal.textContent = totalJogadas;
+
+                const t1 = cartasViradas[0];
+                const t2 = cartasViradas[1];
+
+                if (t1.getAttribute('data-emoji') === t2.getAttribute('data-emoji')) {
+                    t1.classList.add('matched');
+                    t2.classList.add('matched');
+                    contagemPares += 2;
+                    cartasViradas = [];
+
+                    if (contagemPares === conjuntoCartas.length) {
+                        clearInterval(cronometro);
+                        setTimeout(() => {
+                            alert(`🎉 Parabéns! Completou o Jogo da Memória Ecológico em ${formatarTempo(segundosPassados)} com ${totalJogadas} jogadas!`);
+                        }, 400);
+                    }
+                } else {
+                    setTimeout(() => {
+                        t1.classList.remove('flipped');
+                        t2.classList.remove('flipped');
+                        cartasViradas = [];
+                    }, 1000);
+                }
+            }
+        });
+
+        memoryGameBoard.appendChild(tile);
     });
 }
 
-function virarCartaTabuleiro(elementoCarta, objetoDado) {
-    if (elementoCarta.classList.contains('flipped') || elementoCarta.classList.contains('matched') || vetorTemporarioCartas.length >= 2) return;
-
-    iniciarTimerJogo();
-
-    elementoCarta.classList.add('flipped');
-    elementoCarta.querySelector('.tile-back').style.display = "none";
-    elementoCarta.querySelector('.tile-front').style.display = "flex";
-
-    vetorTemporarioCartas.push({ el: elementoCarta, d: objetoDado });
-
-    if (vetorTemporarioCartas.length === 2) {
-        jogadasEfetuadas++;
-        const mVal = document.getElementById('moves-val');
-        if(mVal) mVal.innerText = jogadasEfetuadas;
-
-        if (vetorTemporarioCartas[0].d.nome === vetorTemporarioCartas[1].d.nome) {
-            vetorTemporarioCartas[0].el.classList.add('matched');
-            vetorTemporarioCartas[1].el.classList.add('matched');
-            vetorTemporarioCartas = [];
-
-            if (document.querySelectorAll('.memory-tile.matched').length === cartasMemoriaOriginais.length) {
-                clearInterval(timerIdInterv);
-                setTimeout(() => { alert(`🎉 Vitória! Missão biológica completada com sucesso em ${jogadasEfetuadas} jogadas!`); }, 400);
-            }
-        } else {
-            setTimeout(() => {
-                vetorTemporarioCartas[0].el.classList.remove('flipped');
-                vetorTemporarioCartas[0].el.querySelector('.tile-back').style.display = "flex";
-                vetorTemporarioCartas[0].el.querySelector('.tile-front').style.display = "none";
-
-                vetorTemporarioCartas[1].el.classList.remove('flipped');
-                vetorTemporarioCartas[1].el.querySelector('.tile-back').style.display = "flex";
-                vetorTemporarioCartas[1].el.querySelector('.tile-front').style.display = "none";
-
-                vetorTemporarioCartas = [];
-            }, 900);
-        }
-    }
+if (btnReiniciarJogo) {
+    btnReiniciarJogo.addEventListener('click', inicializarJogoMemoria);
 }
+
+// Inicialização automática do Jogo ao carregar a página
+inicializarJogoMemoria();
