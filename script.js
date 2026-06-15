@@ -476,7 +476,7 @@ function executarDownloadRealCertificado() {
                     Antônio Olinto<br><span style="font-size:11px; color:#555;">Antônio Olinto, 14 de Junho de 2026</span>
                 </div>
                 <div class="assinatura-box">
-                    D M N O <br><span style="font-size:11px; color:#555;">D M N O , 14 de Junho de 2026</span>
+                    Raizes do Amanhã <br><span style="font-size:11px; color:#555;"> Antônio Olinto , 14 de Junho de 2026</span>
                 </div>
             </div>
         </div>
