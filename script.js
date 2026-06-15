@@ -467,7 +467,7 @@ function executarDownloadRealCertificado() {
             
             <h1>CERTIFICADO DE EXCELÊNCIA AGROECOLÓGICA</h1>
             
-            <p>Pelo presente certificado, declaramos que o <strong>ALUNO(A) ONLINE</strong> concluiu com aproveitamento exemplar o ecossistema pedagógico digital de sustentabilidade, atingindo a marca avaliativa de <strong>${totalAcertosQuiz} acertos de 30 possíveis (${porcentagem}% de rendimento)</strong> nas lições teóricas e computacionais.</p>
+            <p>Pelo presente certificado, declaramos que o <strong> ALUNO(A) ONLINE</strong> concluiu com aproveitamento exemplar o ecossistema pedagógico digital de sustentabilidade, atingindo a marca avaliativa de <strong>${totalAcertosQuiz} acertos de 30 possíveis (${porcentagem}% de rendimento)</strong> nas lições teóricas e computacionais.</p>
             
             <p style="font-weight: bold; margin-top: 20px; font-family:sans-serif;">PLATAFORMA DE MONITORAMENTO DE IMPACTO AGROECOLÓGICA & INTELIGÊNCIA TECNOLÓGICA COMPUTACIONAL</p>
             
@@ -476,7 +476,7 @@ function executarDownloadRealCertificado() {
                     Antônio Olinto<br><span style="font-size:11px; color:#555;">Antônio Olinto, 14 de Junho de 2026</span>
                 </div>
                 <div class="assinatura-box">
-                    Daniel Muniz Nizer<br><span style="font-size:11px; color:#555;">Daniel Muniz Nizer, 14 de Junho de 2026</span>
+                    D M N O <br><span style="font-size:11px; color:#555;">D M N O , 14 de Junho de 2026</span>
                 </div>
             </div>
         </div>
