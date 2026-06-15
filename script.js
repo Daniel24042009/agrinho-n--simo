@@ -473,10 +473,10 @@ function executarDownloadRealCertificado() {
             
             <div class="assinaturas">
                 <div class="assinatura-box">
-                    Antônio Olinto<br><span style="font-size:11px; color:#555;">Antônio Olinto, 14 de Junho de 2026</span>
+                    Raizes do Amanhã <br><span style="font-size:11px; color:#555;">Antônio Olinto, 14 de Junho de 2026</span>
                 </div>
                 <div class="assinatura-box">
-                    Raizes do Amanhã <br><span style="font-size:11px; color:#555;"> Antônio Olinto , 14 de Junho de 2026</span>
+                Agro Hub <br><span style="font-size:11px; color:#555;"> Antônio Olinto , 14 de Junho de 2026</span>
                 </div>
             </div>
         </div>
